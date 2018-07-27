@@ -2,15 +2,17 @@ package e;
 
 public class Hello {
 	
-	private String Studentname;
+	private String StudentOrTeachername;
 
-	public String getStudentname() {
-		return Studentname;
+	public String getStudentOrTeachername() {
+		return StudentOrTeachername;
 	}
 
-	public void setStudentname(String studentname) {
-		Studentname = studentname;
+	public void setStudentOrTeachername(String studentOrTeachername) {
+		StudentOrTeachername = studentOrTeachername;
 	}
+	
+	
 	
 	
 }
